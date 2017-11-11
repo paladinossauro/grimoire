@@ -3,7 +3,7 @@ layout: post
 title:  "Catnap"
 date:   2017-11-11
 source: PHB.211
-tags: [sorcerer, wizard, cantrip, conjuration]
+tags: [bard, sorcerer, wizard, enchantment]
 ---
 
 **3rd-level enchantment**
